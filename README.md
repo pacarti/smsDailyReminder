@@ -7,6 +7,6 @@ A script that sends the SMS to remind about task A in day 1 and task B in day 2 
 ## Usage
 <code>./smsDailyReminder</code>
 <br><br>Do not forget to set the executable rights to the script file<br>
-<br>Alternatively:<br><br>
+<br><br>Alternatively:<br><br>
 <code>python3 smsDailyReminder.py</code>
 <br><br><br>The script saves the Left/Right state into the <i>leftRightState.txt</i> created in the script location.
